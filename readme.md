@@ -4,7 +4,7 @@
 *Author*:  Charles E. Campbell, Jr.  <NdrOchip@ScampbellPfamily.AbizM> (remove
 NOSPAM from Campbell's email first)
 
-*Copyright*: (c) 2004-2010 by Charles E. Campbell, Jr.  The [VIM
+*Copyright*: (c) 2004-2014 by Charles E. Campbell, Jr.  The [VIM
 LICENSE](http://vimdoc.sourceforge.net/htmldoc/uganda.html) applies to
 AnsiEsc.vim and AnsiEsc.txt except use "AnsiEsc" instead of "Vim".  No
 warranty, express or implied.  Use At-Your-Own-Risk.
